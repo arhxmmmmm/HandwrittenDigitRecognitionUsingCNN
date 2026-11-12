@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using CNN
 
-CSDX 530 - Deep Learning Techniques. A three-block CNN trained on MNIST, with a Streamlit demo app.
+A three-block CNN trained on MNIST, with a Streamlit demo app.
 
 ## Files
 - `train.py` - loads MNIST, trains the CNN, evaluates it, saves `outputs/digit_cnn.keras`, `outputs/metrics.json` and all graphs.
